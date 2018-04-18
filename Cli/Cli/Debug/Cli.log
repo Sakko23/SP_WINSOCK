@@ -1,0 +1,3 @@
+﻿  Cli.cpp
+c:\users\2345\source\repos\cli\cli\cli.cpp(18): warning C4101: id: неиспользованная локальная переменная
+  Cli.vcxproj -> C:\Users\2345\Source\repos\Cli\Debug\Cli.exe

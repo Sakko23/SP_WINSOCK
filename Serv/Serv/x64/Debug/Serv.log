@@ -1,0 +1,5 @@
+﻿  Serv.cpp
+c:\users\2345\source\repos\serv\serv\serv.cpp(28): warning C4101: buffer: неиспользованная локальная переменная
+c:\users\2345\source\repos\serv\serv\serv.cpp(95): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
+c:\users\2345\source\repos\serv\serv\serv.cpp(70): warning C4101: address: неиспользованная локальная переменная
+  Serv.vcxproj -> C:\Users\2345\Source\repos\Serv\x64\Debug\Serv.exe

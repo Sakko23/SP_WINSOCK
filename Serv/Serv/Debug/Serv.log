@@ -1,0 +1,10 @@
+﻿  Serv.cpp
+c:\users\2345\source\repos\serv\serv\serv.cpp(4): warning C4603: SetConsoleTitle: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\2345\source\repos\serv\serv\serv.cpp(4): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\2345\source\repos\serv\serv\serv.cpp(8): note: использование предварительно скомпилированного заголовка
+c:\users\2345\source\repos\serv\serv\serv.cpp(6): warning C4603: SetConsoleTitleW: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\2345\source\repos\serv\serv\serv.cpp(6): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\2345\source\repos\serv\serv\serv.cpp(8): note: использование предварительно скомпилированного заголовка
+c:\users\2345\source\repos\serv\serv\serv.cpp(13): error C2008: ;: не требуется в макроопределении
+c:\users\2345\source\repos\serv\serv\serv.cpp(27): error C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winsock2.h(1830): note:  см. объявление "inet_addr"
